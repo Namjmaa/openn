@@ -1,0 +1,292 @@
+
+@media screen and (min-width: 481px) {
+
+    .content {
+        display: flex;
+
+ 
+      
+    }
+    .sub-content {
+        padding-left: 0%;
+        padding-right: 1.5%;
+        width: 30%;
+    }
+    .text {
+        width: 70%;
+    }
+    .text{
+        margin: 2%;
+    }
+  
+    
+}
+@media screen and (max-width: 480px){
+    .content {
+        display: flex;
+        flex-direction: column;
+        
+
+    }
+   
+    .text {
+        width: 100%;
+
+    }
+    .sub-content {
+
+        width: 100%;
+    }
+   
+ 
+}
+.hello {
+
+    background-color: #13124F;
+    color: whitesmoke;
+  
+   
+    height: 250px;
+}
+
+.hello h1{
+    padding-top: 4%;
+    padding-left: 2%;
+}
+.hello h5{
+    padding-left: 2%;
+    padding-top: 1%;
+}
+.hello.learn{
+    padding-left: 4%;
+}
+
+
+.container  {
+    
+ 
+    font-family: 'Arial Regular';
+   
+}
+.header {
+    display: flex;
+   flex-direction: column; 
+
+}
+
+.logo {
+   width: 100%;
+    color: whitesmoke;
+    background-color: #1B1B6C;
+    height: 40px;
+    font-size: 50%;
+   
+}
+.d {
+    margin: 1%;
+    font-size: 200%;
+
+}
+
+
+
+
+
+.starfleet{
+    margin: 2% 3% 2% 0%;
+}
+.text h3 {
+   font-size: 200%;
+   margin-top: 0%;
+   margin-bottom: 2%;
+}
+.text p{
+    margin-bottom: 2%;
+}
+.little-text {
+    background-color: #9090A5;
+    margin-top: 1%;
+    color: whitesmoke;
+    padding-left: 2%;
+    padding-top: 5px;
+    height: 25px;
+    font-size: 70%;
+}
+.footer {
+    background-color: #13124F;
+    color: white;
+    padding-left: 1%;
+    height: 35px;
+ 
+
+  
+ }
+ .footer p {
+    
+    padding-top: 7px;
+ }
+.message {
+    margin-top: 10%;
+    background-color: #F61067;
+    height: 2.5%;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.welcome {
+    background-color: #9090A5;
+    height: 3%;
+    color: whitesmoke;
+    padding-top: 2%;
+    padding-left: 4%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+}
+.caption {
+color: whitesmoke;
+display: flex;
+flex-direction: column;
+font-size: 2vh;
+
+}
+.candidate {
+    background-color: #13124F;
+}
+.input {
+    background-color: #1B1B6C;
+    border-top: 3% solid #9090A5;
+    border-bottom: 3% solid #9090A5;
+    width: 90%;
+    margin: 4%;
+    height: 25%;
+    color: whitesmoke;
+    margin-top: 0%;
+    padding-top: 1.6%;
+    padding-bottom: 1.6%;
+}
+.send {
+    background-color: #F61067;
+    width: 92%;
+    margin: 4%;
+    height: 40%;
+    margin-top: 0%;
+    text-align: center;
+    margin-bottom: 0%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.starfleet{
+    padding-left: 5%;
+}
+.foot {
+    background-color: #352BA5;
+    height: 5%;
+    margin-top: 3%;
+    font-size: 1.5vh;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+}
+.cast {
+    margin-top: 7%;
+   
+    border: 0.1px solid grey;
+    font-size: 2vh;
+    padding: 4%;
+}
+.cast1 {
+    display: flex;
+    justify-content: space-between;
+}
+.vote {
+    margin-top: 1%;
+}
+.b {
+    display: flex;
+    padding: 0%;
+    
+}
+.box {
+    background-color: #F61067;
+    height: 10px;
+  
+    width: 70%;
+}
+.box1 {
+    width: 30%;;
+    background-color: #2AD392;
+}
+.button {
+    margin-top: 4%;
+    width: 45%;
+    height: 5%;
+    background-color: #F61067;
+    color: whitesmoke;
+    text-align: center;
+    padding: 2%;
+}
+
+.button1 {
+    margin-top: 4%;
+    width: 45%;
+    height: 5%;
+    background-color: #F61067;
+    color: whitesmoke;
+    text-align: center;
+    padding: 2%;
+   
+}
+.l {
+    width: 5%;
+    height: 5%;
+    background-color: #352BA5;
+    border-radius: 100%;
+}
+
+.button:hover {
+    border: solid #2AD392;
+    color: #2AD392;
+    background-color: whitesmoke;
+}
+.button1:hover {
+    border: solid #2AD392;
+    color: #2AD392;
+    background-color: whitesmoke;
+}
+.learn:hover {
+    background-color: #9090A5;
+}
+.send:hover {
+    background-color: #9090A5;
+}
+.message:hover {
+    background-color: #9090A5;
+}
+.learn {
+   
+    padding: 1%;
+   
+    width: 100px;
+margin-left:2%;
+margin-top: 2%;
+    background-color: #F61067 ;
+    color: whitesmoke;
+    text-decoration: none;
+
+  
+}
+
+* {
+    margin: 0%;
+}
+.hello p{
+    font-size: 2vh;
+    padding-left: 2%;
+}
+
+
+
+
+
